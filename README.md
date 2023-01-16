@@ -1,10 +1,5 @@
-# Router OS API
-Client API for RouterOS/Mikrotik
-
-This class was originally written by Denis Basta and updated by several contributors.  It aims to give a simple interface to the RouterOS API in PHP.
-
-Mikrotik Wiki page at http://wiki.mikrotik.com/wiki/API_PHP_class
-
+# SmartStation Project
+Playstaytion Billing Smart IoT Project get API JSON POST to SQL
 ## Contributors (before moving to Git)
 * NetsinCode by Netsian
 ## Changelog
